@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 from config import TOKEN
-from keys import keys
+from keysconfig import keys
 from extensions import СurrencyСonverter, ConversionException
 
 

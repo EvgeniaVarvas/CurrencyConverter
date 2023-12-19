@@ -1,4 +1,4 @@
-from config import keys
+from keysconfig import keys
 import requests
 import json
 
